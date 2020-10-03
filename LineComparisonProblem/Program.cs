@@ -31,11 +31,11 @@ namespace LineComparisonProblem
             int diffInLength = len1.CompareTo(len2);
 
             if (diffInLength == 0)
-                Console.WriteLine("Lines are equal in length");
+                Console.WriteLine("Lines are Equal in Length");
             else if (diffInLength > 0)
-                Console.WriteLine("Line1 is greater in length than Line2");
+                Console.WriteLine("Line1 is Greater in Length than Line2");
             else
-                Console.WriteLine("Line1 is smaller in length than Line2");
+                Console.WriteLine("Line1 is smaller in Length than Line2");
 
 
 
