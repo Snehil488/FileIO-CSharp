@@ -40,7 +40,7 @@ namespace ReadingAFiile
 
 
             //**********2nd Method************************
-            //using StreamWriter writer = new StreamWriter(@"C:\Users\Snehil\source\repos\ReadingAFiile\log.txt");
+            //using StreamWriter writer = new StreamWriter(@"C:\Users\Snehil\source\repos\ReadingAFiile\log.txt", true); //true if want to append to existing text
             //writer.WriteLine("This is a Line");
             //writer.WriteLine("This is a Line");
             //writer.WriteLine("This is a Line");
