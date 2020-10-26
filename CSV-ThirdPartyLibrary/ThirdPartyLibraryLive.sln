@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdPartyLibraryLive", "ThirdPartyLibraryLive.csproj", "{BC7809AC-58F9-404E-B597-944E90385E40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC7809AC-58F9-404E-B597-944E90385E40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC7809AC-58F9-404E-B597-944E90385E40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC7809AC-58F9-404E-B597-944E90385E40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC7809AC-58F9-404E-B597-944E90385E40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C182A63-17E6-4AE6-AB4A-7AA22BD41D6C}
+	EndGlobalSection
+EndGlobal
